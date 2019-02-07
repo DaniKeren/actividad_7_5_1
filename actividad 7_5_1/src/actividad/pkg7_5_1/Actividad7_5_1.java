@@ -17,6 +17,10 @@ public class Actividad7_5_1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo 2");
+        System.out.println("VERDE");
+        System.out.println("ROJO");
+       
+
     }
     
 }
