@@ -19,6 +19,10 @@ public class Actividad7_5_1 {
         System.out.println("Hola Mundo 2");
         System.out.println("VERDE");
         System.out.println("ROJO");
+        System.out.println("AZUL");
+        System.out.println("NEGRO");
+
+        
        
 
     }
